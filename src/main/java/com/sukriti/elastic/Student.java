@@ -1,4 +1,4 @@
-package com.pixelTrice.elastic;
+package com.sukriti.elastic;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;

@@ -1,4 +1,4 @@
-package com.pixelTrice.elastic;
+package com.sukriti.elastic;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
